@@ -24,6 +24,8 @@ System.out.print("    opcion 1:Suma");
 System.out.print("    opcion 2:Resta"); 
 System.out.print("    opcion 3:Multiplicacion"); 
 System.out.print("    opcion 4:Division \n"); 
+System.out.print("    opcion 5:Division \n"); 
+
 operacion = buffer.nextInt(); 
 if (operacion > 4 || operacion < 1) { 
 System.out.println("Ingrese una opcion valida"); 
