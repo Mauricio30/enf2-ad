@@ -25,6 +25,7 @@ System.out.print("    opcion 2:Resta");
 System.out.print("    opcion 3:Multiplicacion"); 
 System.out.print("    opcion 4:Division \n"); 
 System.out.print("    opcion 5:Division \n"); 
+// eso es una calculadora que la hice yo
 
 operacion = buffer.nextInt(); 
 if (operacion > 4 || operacion < 1) { 
